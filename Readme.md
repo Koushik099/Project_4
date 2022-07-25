@@ -8,6 +8,6 @@ I gave lots of effort to complete this landing page. Using CSS3, The new Utiliti
 
 # View this Project On Netlify, Here is the LInk.
 
-**[MarketPlace](https://marketplace.netlify.app/)**
+**[MarketPlace](https://newmarketplace.netlify.app/)**
 
 **Thank You.**
